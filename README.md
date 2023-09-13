@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaywebdev" alt="sanjaywebdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjaytate17" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaytate17?logo=twitter&style=for-the-badge" alt="sanjaytate17" /></a> </p>
+
 
 - 🌱 I’m currently learning **springs**
 
